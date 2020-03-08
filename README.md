@@ -4,9 +4,11 @@ I Am Poor app was created for The App Brewery's Complete App Development Bootcam
 
 ## Requirements
 
-- iOS 12.1
-- Xcode 10.1
+- iOS 13
+- Xcode 11
 
 ## Screenshot
 
-<img src="https://raw.githubusercontent.com/julienshim/I-Am-Rich-App/master/I%20Am%20Rich/Assets.xcassets/screenshot.png" width="500">
+<img src="https://github.com/julienshim/I-Am-Rich-App/blob/master/screenshot-portrait.png?raw=true" height="500">
+
+<img src="https://github.com/julienshim/I-Am-Rich-App/blob/master/screenshot-landscape.png?raw=true" width="500">
